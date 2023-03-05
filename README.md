@@ -17,9 +17,9 @@ Content:
 Currently:
 - 🔭 I’m currently working on ... a socially curated RRS feed reader
 - 🌱 I’m currently learning ... applied ai development for product engineering
-- 👯 I’m looking to collaborate on ... B2B SaaS and LLMs in production
+- 👯 I’m looking to collaborate on ... B2B SaaS with LLMs in production
 - 🤔 I’m looking for help with ... finding my next role!
-- 💬 Ask me about ... how many last start-up failed
+- 💬 Ask me about ... how my last start-up failed
 - 📫 How to reach me: hello@mitchell.fyi
 - ⚡ Fun fact: ... I dream about ditching it all and becoming a gardener
 
