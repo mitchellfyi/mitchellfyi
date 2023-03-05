@@ -10,13 +10,11 @@ Full-stack Web Developer - helping to create digital products that people love.
 - [Email me](mailto:hello@mitchell.fyi)
 
 Content:
+ - [TDD Exercise: Bowling Game Kata in TypeScript (GitHub)](https://tdd-bowling-kata.mitchell.fyi)
+ - [My Approach to Systems Design](https://www.notion.so/My-Approach-to-Systems-Design-7905716aaf20402d911029f322d19b69)
+ - [How to Build: Vehicle Rental](https://www.notion.so/How-to-Build-Vehicle-Rental-9d0c5086fc2547058f43fa626e1abd59)
 
-[TDD Exercise: Bowling Game Kata in TypeScript (GitHub)](https://tdd-bowling-kata.mitchell.fyi)
-
-[My Approach to Systems Design](https://www.notion.so/My-Approach-to-Systems-Design-7905716aaf20402d911029f322d19b69)
-
-[How to Build: Vehicle Rental](https://www.notion.so/How-to-Build-Vehicle-Rental-9d0c5086fc2547058f43fa626e1abd59)
-
+Currently:
 - 🔭 I’m currently working on ... a socially curated RRS feed reader
 - 🌱 I’m currently learning ... applied ai development for product engineering
 - 👯 I’m looking to collaborate on ... B2B SaaS and LLMs in production
