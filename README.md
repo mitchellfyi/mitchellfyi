@@ -2,7 +2,8 @@
 
 Full-stack Web Developer - helping to create digital products that people love.
 
-- [Personal Website](https://mitchell.fyi/)
+- [Personal Website](https://mitchellbryson.com)
+- [LinkedIn](https://www.linkedin.com/in/mitchellfyi/)
 - [Public Work (GitHub)](https://github.com/mitchellfyi/) (This page)
 - [Calendar (Calendly)](https://calendly.com/mitchellfyi)
-- [Email me](mailto:hello@mitchell.fyi)
+- [Email me](mailto:githubprofile@mitchellbryson.com)
