@@ -1,6 +1,6 @@
 # Hello, I'm Mitchell
 
-Full-stack Web Developer - helping to create digital products that people love.
+Full-stack Product Engineer (Rails/React) - helping to create digital products that people love.
 
 - [Personal Website](https://mitchellbryson.com)
 - [LinkedIn](https://www.linkedin.com/in/mitchellfyi/)
